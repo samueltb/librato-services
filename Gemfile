@@ -26,7 +26,7 @@ gem 'flowdock', '~> 0.3.1'
 #
 #gem 'always_verify_ssl_certificates', '~> 0.3.0'
 
-gem 'rake', '~>0.9.2.2'
+gem 'rake', '~> 10.0.0'
 
 group :app do
   gem 'airbrake', '~> 3.0.9', :require => false
